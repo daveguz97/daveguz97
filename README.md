@@ -13,6 +13,10 @@
 ### Connect With Me
 [<img src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/10412341841540553610-512.png" width="22px" />][github]  [<img src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/16090541531530099327-512.png" width="22px" />][linkedin] [<img src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/16438666591561032650-512.png" width="22px" />][twitter]
 
+---
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=daveguz97)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [github]: https://github.com/daveguz97
 [linkedin]: https://linkedin.com/in/daveguz97
 [twitter]: https://twitter.com/daveguz97
