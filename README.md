@@ -24,7 +24,7 @@
 
 
 ---
-[![David's github stats](https://github-readme-stats.vercel.app/api?username=daveguz97)](https://github.com/anuraghazra/github-readme-stats)
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=daveguz97&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [github]: https://github.com/daveguz97
