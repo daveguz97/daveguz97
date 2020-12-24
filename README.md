@@ -8,7 +8,7 @@
 - I enjoy building new projects.
 - Worked on Sites from selling virtual art to sites that helps musicians find venues.
 - 2021 Goal: is to contribute to more projects.
-- Fun Fact: I'm a father of fraternal twins.
+- Fun Fact: I'm a father of fraternal twins and I'm born on halloween <img src="https://cdn.icon-icons.com/icons2/2605/PNG/512/pumpkin_halloween_icon_155990.png" width=22px>.
 
 ### Connect With Me
 
