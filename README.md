@@ -9,11 +9,6 @@
 - Worked on Sites from selling virtual art to sites that helps musicians find venues.
 - 2021 Goal: is to contribute to more projects.
 - Fun Fact: I'm a father of fraternal twins and I'm born on halloween <img src="https://cdn.icon-icons.com/icons2/2605/PNG/512/pumpkin_halloween_icon_155990.png" width=22px>.
-
-### Connect With Me
-
-[<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" width="22px" />][github]  [<img src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/16090541531530099327-512.png" width="22px" />][linkedin] [<img src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/16438666591561032650-512.png" width="22px" />][twitter]
-
 <br />
 
 ### Languages and Tools
