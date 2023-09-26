@@ -1,6 +1,6 @@
-### Hi there, my name is David Guzman
+## Hi there, my name is David Guzman
 
-## I'm a 3X Certified Salesforce Developer
+### Fun Facts about me
 
 ---
 
