@@ -1,6 +1,6 @@
 ### Hi there, my name is David Guzman
 
-## I'm a Front-End Developer, Full-Stack Developer, and a father of twins
+## I'm a 3X Certified Salesforce Developer
 
 ---
 
