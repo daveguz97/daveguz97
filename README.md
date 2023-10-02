@@ -1,4 +1,4 @@
-## Hi there, my name is David Guzman
+## Hi there 👋, my name is David Guzman
 
 ### Fun Facts about me
 
