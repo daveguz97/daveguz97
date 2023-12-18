@@ -24,6 +24,8 @@
 | Declarative Programming (Flows, Approval Processes, Workflows, Process Builder) | TypeScript |
 | Permission Sets / Profiles | JavaScript |
 
+<br />
+
 ### 🏆 Where I see myself in 3-4 Years
 - Obtaining my PD2, Platform App Builder, and JavaScript Certificate 
 
