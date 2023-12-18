@@ -1,20 +1,36 @@
 ## Hi there 👋, my name is David Guzman
 
-### Fun Facts about me
+### 😊 Fun Facts about me
 
 ---
 
-- I'm an excellent problem solver.
-- I enjoy building new projects.
-- Worked on Sites from selling virtual art to sites that helps musicians find venues.
-- 2021 Goal: is to contribute to more projects.
-- Fun Fact: I'm a father of fraternal twins and I'm born on halloween <img src="https://cdn.icon-icons.com/icons2/2605/PNG/512/pumpkin_halloween_icon_155990.png" width=22px>.
+- I'm am a 3X Certified Salesforce Developer.
+- I enjoy building new projects and learning new things.
+- Started off as an Intern for 2 companies called Gigtor and SuperWorld.
 <br />
 
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/daveguz97/)
+
+<br />
+
+### 🧑🏻‍💻 Skills
+| Salesforce    | Web Development |
+| -------- | ------- |
+| Apex  | NextJS    |
+| Lightning Web Components (LWC) | React     |
+| Aura    | HTML / CSS    |
+| VisualForce | SASS |
+| Declarative Programming (Flows, Approval Processes, Workflows, Process Builder) | TypeScript |
+| Permission Sets / Profiles | JavaScript |
+
+### 🏆 Where I see myself in 3-4 Years
+- Obtaining my PD2, Platform App Builder, and JavaScript Certificate 
+
 
 
 ---
-[![David's github stats](https://github-readme-stats.vercel.app/api?username=daveguz97&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=daveguz97&theme=tokyonight)](https://git.io/streak-stats) &nbsp; &nbsp; [![David's github stats](https://github-readme-stats.vercel.app/api?username=daveguz97&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [github]: https://github.com/daveguz97
