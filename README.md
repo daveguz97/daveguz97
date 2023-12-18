@@ -6,7 +6,7 @@
 
 - I'm am a 3X Certified Salesforce Developer.
 - I enjoy building new projects and learning new things.
-- Started off as an Intern for 2 companies called Gigtor and SuperWorld.
+- Started my journey as a Salesforce Developer for Revolent Group
 <br />
 
 ### 📫 Contact
