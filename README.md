@@ -28,9 +28,5 @@
 
 ### 🏆 Where I see myself in 3-4 Years
 - Obtaining my PD2, Platform App Builder, and JavaScript Certificate 
-
-
----
-[![David's github stats](https://github-readme-stats.vercel.app/api?username=daveguz97&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=daveguz97&theme=tokyonight)](https://git.io/streak-stats) 
