@@ -4,7 +4,7 @@
 
 ---
 
-- I'm am a 3X Certified Salesforce Developer.
+- I'm am a 6X Certified Salesforce Developer.
 - I enjoy building new projects and learning new things.
 - Started my journey as a Salesforce Developer for Revolent Group
 <br />
@@ -22,7 +22,7 @@
 | Aura    | HTML / CSS    |
 | VisualForce | SASS |
 | Declarative Programming (Flows, Approval Processes, Workflows, Process Builder) | TypeScript |
-| Permission Sets / Profiles | JavaScript |
+| Permission Sets / Profiles | JavaScript | Omnistudio
 
 <br />
 
