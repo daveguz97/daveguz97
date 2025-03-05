@@ -4,7 +4,7 @@
 
 ---
 
-- I'm am a 6X Certified Salesforce Developer.
+- I'm am a 7X Certified Salesforce Developer.
 - I enjoy building new projects and learning new things.
 - Started my journey as a Salesforce Developer for Revolent Group
 <br />
